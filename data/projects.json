@@ -1,0 +1,38 @@
+[
+    {
+      "title":"Hyundai Kona EV",
+      "category":"Website for Hyundai Kona Ev",
+      "image":"hyundaikona.JPG",
+      "url":"https://hyundaikonaev.com/"
+    },
+    {
+      "title":"Bay Community Health",
+      "category":"Website for Bay Community Health",
+      "image":"bch.JPG",
+      "url":"https://baycommunityhealth.org/"
+    },
+    {
+      "title":"Jenn Klarman Website",
+      "category":"Website for Jenn Klarman",
+      "image":"jennklarman.JPG",
+      "url":"https://jennklarman.yourpandasite.com/"
+    },
+    {
+      "title":"Greg Bowyer Optical",
+      "category":"Website for Eyewear Company in Australia",
+      "image":"greg.jpg",
+      "url":"http://gregbowyeroptometrist.com.au/"
+    },
+    {
+      "title":"Deped Iligan Division Office",
+      "category":"Website for Government Department here in the Philippines",
+      "image":"deped.jpg",
+      "url":"http://depediligan.com/"
+    },
+    {
+      "title":"Resume Website",
+      "category":"A React based resume website template",
+      "image":"me.JPG",
+      "url":"http://www.ronapasjr.com"
+    }
+  ]
